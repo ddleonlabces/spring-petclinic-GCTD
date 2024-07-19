@@ -41,7 +41,7 @@ jobs:
         env:
           JAVA_HOME: /opt/jdk
         with:
-          project: 'spring-boot-starter-parent'
+          project: 'petclinic'
           path: '.'
           format: 'HTML'
           out: 'reports'
