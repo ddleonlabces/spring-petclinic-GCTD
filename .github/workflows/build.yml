@@ -97,3 +97,4 @@ jobs:
       with:
         name: 04 - Acceptance tests report
         path: ./target/surefire-reports
+
