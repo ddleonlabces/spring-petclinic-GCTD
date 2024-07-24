@@ -36,7 +36,7 @@
 
     <sonar.organization>cgctd-org</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    <sonar.exclusions>/src/test/java/org/springframework/samples/petclinic/acceptance/CucumberImplTests.java</sonar.exclusions>
+    <sonar.exclusions>/src/test/java/org/springframework/samples/petclinic/acceptance/*</sonar.exclusions>
   </properties>
 
   <dependencies>
